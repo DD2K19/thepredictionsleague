@@ -1,0 +1,36 @@
+/*  General Styles */
+
+body{
+  text-align: center;
+  position: relative;
+}
+
+h1,h3,h4,h5,h6{
+  font-family: 'Livvic', cursive;
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+}
+
+.container-fluid{
+ padding: 3% 10%;
+}
+
+.gameweek{
+  background-color:  #481380;
+  color: #ffffff;
+}
+
+.gamesub{
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.5;
+  padding-top: 6%;
+  padding-bottom: 1%;
+  font-family: 'Ubuntu', sans-serif;
+}
