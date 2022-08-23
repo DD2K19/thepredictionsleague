@@ -1,0 +1,147 @@
+/*  General Styles */
+
+body{
+  text-align: center;
+  position: relative;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Anek Telugu', sans-serif;
+}
+
+p{
+  font-family: 'Quicksand', sans-serif;
+}
+
+.container-fluid{
+ padding: 3% 10%;
+}
+
+/* Title Section */
+
+.navbar {
+  padding: 0 0 6.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 200;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+#title{
+  background-color: #481380;
+  color: white;
+}
+
+.intro-heading{
+  font-size: 5rem;
+  font-family: 'Aboreto', cursive;
+  font-weight: bold;
+  padding: 6%;
+}
+
+.intro-text{
+  padding-bottom: 3%;
+  font-size: 2rem;
+}
+
+
+/* Gameweek */
+
+#gameweek{
+  background-color: #481380;
+  color: white;
+}
+
+.carousel-item{
+  padding: 3%
+}
+
+.user-img{
+  border-radius: 50%;
+  background-color: #f6f6f6;
+  width: 70px;
+  height: 70px;
+}
+
+.member1, .member2{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.member{
+  font-size: 1.3rem;
+}
+
+
+.gamesub,.honorsub,.membersub,.tablesub{
+  font-size: 1.7rem;
+  padding-bottom: 3%;
+}
+
+.gamehead,.honorhead,.memberhead,.tablehead {
+  font-size: 4rem;
+  padding: 3%;
+  font-family: 'Aboreto', cursive;
+}
+
+.table, .tablehead, .tablesub{
+  color: #481380;
+}
+
+.hrr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #eae9e9;
+  border-width: 10px;
+  width: 10%;
+  background-color: #481380;
+  text-align: center;
+}
+
+.desc1{
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.desc2{
+  font-size: 1.2rem;
+}
+
+.predhead{
+  padding: 2%;
+}
+
+.K,.scorerK{
+  font-size: 1.8rem;
+}
+
+
+.king,.sco{
+  font-size: 1.7rem;
+  padding: 3%;
+}
+
+.kpts{
+  font-size: 1.9rem;
+  font-weight: bold;
+}
+
+#members{
+  color: #481380;
+}
+
+#honours{
+    color: #481380;
+}
