@@ -145,3 +145,8 @@ p{
 #honours{
     color: #481380;
 }
+
+.accordion-body{
+  background-color: #481380;
+  color: white;
+}
